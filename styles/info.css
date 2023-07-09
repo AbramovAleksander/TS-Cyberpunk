@@ -1,0 +1,50 @@
+.wrapper-section-info {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background: black;
+}
+
+.info-wrapper {
+  width: 1360px;
+  border: 1px solid white;
+}
+
+.wrapper-logo-info-with-title {
+  width: 132px;
+  height: 132px;
+  display: flex;
+}
+.info-wrapper__title-info {
+  width: 570;
+  height: 132;
+  display: flex;
+  align-items: flex-end;
+  color: #fff;
+  font-family: Archangelsk;
+  font-size: 62px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-left: 25px;
+}
+
+.wrapper-logo-info-with-title {
+  width: 100%;
+  border: 1px solid;
+  display: flex;
+}
+.info-wrapper__subtitle-info {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 34px;
+  margin-top: 20px;
+}
+
+.color-blue {
+  color: #52bedc;
+}
